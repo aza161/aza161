@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ahmad!
-- 👀 I’m interested in computers, C, linux, and open-source software!
-- 🌱 I’m currently learning C!
+- 👀 I’m interested in cryptography, C, linux, and systems!
+- 🌱 I’m currently learning Go!
 - 💞️ I’m looking to collaborate on some projects.
 - 📫 How to reach me? On my email ahmadalrabih3@gmail.com
 
